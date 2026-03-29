@@ -95,7 +95,7 @@ sources:
     database: cis9440-hw3-488506
     schema: nyc_hw3_raw_data
     tables:
-      - name: source_dot_service_requests_history
+      - name: source_nyc_open_restaurant_apps
         description: |
           One row per restaurant application.
         columns:
